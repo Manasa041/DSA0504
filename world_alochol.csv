@@ -1,0 +1,6 @@
+country,year,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol
+Germany,2018,300,100,200,10.5
+France,2018,200,150,300,12.5
+Italy,2018,250,80,250,9.8
+Spain,2018,220,90,280,11.2
+USA,2018,260,120,150,8.6
